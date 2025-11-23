@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "我的个人主页"
-excerpt:我是ayck,喜欢学习点电脑知识
+title: 我的个人主页
+excerpt: 我是ayck,喜欢学习点电脑知识
 author_profile: true
 redirect_from: 
   - /about/
